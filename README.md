@@ -1,3 +1,3 @@
 # Pygame-Projects
 
-1. Space invaders Gme
+1. Space invaders Game
