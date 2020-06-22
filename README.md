@@ -1,5 +1,5 @@
 # Pygame-Projects
 
-1. Space invaders Game
+1. Space Invaders Game
 
-2. Flappy bird Game
+2. Flappy Bird Game
