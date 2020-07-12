@@ -13,8 +13,11 @@ The display size is ideal for mobile devices.
 ___________________________________________________________
 
 # Requirements:
+
 Python 3 
+
 Pygame
+
 Windows 7 or more
 
 ________________________
